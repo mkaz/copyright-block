@@ -1,0 +1,12 @@
+{
+	"apiVersion": 2,
+	"name": "mkaz/copyright-block",
+	"title": "Copyright Block",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Example block written with ES5 standard and no JSX – no build step required.",
+	"textdomain": "copyright-block",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./editor.css",
+	"style": "file:./style.css"
+}
