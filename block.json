@@ -4,7 +4,7 @@
 	"title": "Copyright Block",
 	"category": "widgets",
 	"icon": "smiley",
-	"description": "Example block written with ES5 standard and no JSX – no build step required.",
+	"description": "Insert Copyright with current year",
 	"textdomain": "copyright-block",
 	"editorScript": "file:./index.js",
 	"editorStyle": "file:./editor.css",
