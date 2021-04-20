@@ -6,7 +6,5 @@
 	"icon": "smiley",
 	"description": "Insert Copyright with current year",
 	"textdomain": "copyright-block",
-	"editorScript": "file:./index.js",
-	"editorStyle": "file:./editor.css",
-	"style": "file:./style.css"
+	"editorScript": "file:./index.js"
 }
