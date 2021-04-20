@@ -4,7 +4,7 @@
  * Description:       A block to insert the Copyright with current year.
  * Requires at least: 5.7
  * Requires PHP:      7.0
- * Version:           0.1.0
+ * Version:           0.1.1
  * Author:            Marcus Kazmierczak
  * Author URI:        https://mkaz.blog/
  * License:           GPL-2.0-or-later
