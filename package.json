@@ -1,7 +1,0 @@
-{
-	"name": "copyright-block",
-	"version": "0.1.0",
-	"description": "Example block written with ES5 standard and no JSX – no build step required.",
-	"author": "The WordPress Contributors",
-	"license": "GPL-2.0-or-later"
-}
